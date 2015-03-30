@@ -1,0 +1,21 @@
+h1 {
+   background-color: pink;
+   color: white;
+   padding: 30px;
+   text-align: center;
+   font-family: verdana;
+}
+ul {
+  list-style: none;
+  display: inline;
+  font-family: verdana;
+  font-size: 18px;
+  line-height: 30px;
+}
+p {
+  text-transform: uppercase;
+  color: lightblue;
+  font-weight: 700;
+  font-size: 20px;
+  margin: 0;
+}
